@@ -65,26 +65,26 @@ https://yuartian.github.io/
     path: "/foo/"
     children: [
       {
-    		title: "one",
-    		path: "/one.md"
-  		},
-  		{
-    		title: "two",
-    		path: "/two.md"
-  		}
+    	title: "one",
+    	path: "/one.md"
+      },
+      {
+    	title: "two",
+    	path: "/two.md"
+      }
     ]
   },
 	{
     title: "bar",
     children: [
       {
-    		title: "three",
-    		path: "/three.md"
-  		},
-  		{
-    		title: "four",
-    		path: "/four.md"
-  		}
+    	title: "three",
+    	path: "/three.md"
+      },
+      {
+    	title: "four",
+    	path: "/four.md"
+      }
     ]
   },
 ]
